@@ -1,0 +1,16 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/omarsk/Documents/02 Northwestern W20/CS 211/fp-new"
+-- The CXX compiler identification is AppleClang 12.0.0.12000032
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found SDL: /usr/local/lib/libSDL2main.a;/usr/local/lib/libSDL2.dylib;-framework Cocoa  
+-- Found SDL2_image: /usr/local/lib/libSDL2_image.dylib (found version "..") 
+-- Found SDL2_mixer: /usr/local/lib/libSDL2_mixer.dylib (found version "..") 
+-- Found SDL2_ttf: /usr/local/lib/libSDL2_ttf.dylib (found version "..") 
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/omarsk/Documents/02 Northwestern W20/CS 211/fp-new/cmake-build-debug
